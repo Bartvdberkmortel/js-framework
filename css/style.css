@@ -1,0 +1,10 @@
+* {
+  font-family: 'Open Sans', sans-serif; }
+
+.content {
+  margin-top: 25px; }
+  .content fieldset {
+    border: none;
+    padding: 15px; }
+  .content legend {
+    font-size: 1.2rem; }
